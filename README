@@ -1,0 +1,21 @@
+# Mixer – Downloads & Updates
+
+This repository hosts the official releases of **Mixer**, a modern virtual audio mixer
+and recording studio for Windows (32-bit float processing, Dante Virtual Soundcard
+support, multitrack recording, effects, VST3, MIDI controllers and MP3 export).
+
+## Download
+
+Get the latest version from the [Releases](../../releases/latest) page:
+
+* **Mixer-Setup-x.y.z-x64.exe** – the installer (recommended; updates itself).
+* **Mixer-x.y.z-win64-portable.zip** – portable version, no installation.
+
+Installed copies of Mixer check for new versions automatically and update with one click.
+
+---
+
+## אראפנעמען
+
+די נייסטע ווערסיע פון Mixer געפינט זיך אויפן [Releases](../../releases/latest) בלאט.
+נעמט דעם **Mixer-Setup** פייל און אינסטאלירט. נאכדעם קומען אלע אפדעיטס אליין.
